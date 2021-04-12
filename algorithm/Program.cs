@@ -43,7 +43,5 @@ namespace algorithm
                 numbers[length - i - 1] = temp;
             }
         }
-
-        +
     }
 }
